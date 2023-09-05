@@ -1,0 +1,50 @@
+body{
+    background-color:lightgrey;
+    font-family: Helvetica, sans-serif;
+}
+*{
+    box-sizing:border-box;    
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+h1{ 
+    margin-left:10px;
+}
+h2{
+    margin:20px 0 20px 0;
+}
+#header-nav{
+    background-color:#7cd0e6;
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+    border-bottom: 3px solid;
+}
+.row{
+    margin:auto;
+    margin-bottom:15x;
+   
+}
+section{
+    background-color:azure;
+    margin-bottom:15px;
+    padding-top:5px;
+}
+#nav-list{
+    margin: 1px 0 1px 0;
+    padding: 0;
+    background-color:azure;
+}
+.navbar-collapse{
+    padding: 0;
+}
+li{
+    border-bottom:1px solid;
+}
+button{
+    background-color: azure;
+}
+#menu{
+  height: 1000px;
+}
